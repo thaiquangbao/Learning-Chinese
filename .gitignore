@@ -1,0 +1,15 @@
+
+.vs
+.vscode
+
+
+api/LearningVideoApi.v2/node_modules
+api/LearningVideoApi.v2/uploads
+
+mobile/LearningChineseMobileV2/node_modules
+
+
+
+.yarnrc.yml
+.yarnrc
+.yarn
